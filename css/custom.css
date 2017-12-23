@@ -1,0 +1,61 @@
+/* your styles go here */
+
+.form-group {
+    color:#3D4D68;
+}
+
+.highlighted {
+    -webkit-box-shadow: 0 0 10px #3D4D68;
+    -moz-box-shadow: 0 0 10px #3D4D68;
+    box-shadow: 0 0 10px #3D4D68;
+    cursor:pointer;
+}
+
+#blue{
+    color:#3D4D68;
+}
+#blue:hover{
+    color:#3D4D68;
+    border-bottom-color: #3D4D68;
+    border-color: #3D4D68;
+}
+#blueSocial{
+    color:#3D4D68;
+}
+#blueSocial:hover{
+    color:#3D4D68;
+    border-bottom-color: #3D4D68;
+    border-color: #3D4D68;
+    background:#CEDEF8;
+}
+#titles{
+    color:gray;
+}
+#titles:hover{
+    color:#3D4D68;
+}
+#blueBar{
+    background:#3D4D68;
+}
+#blueBar1{
+    background:#41557B;
+}
+#blueButton{
+    color:#3D4D68;
+    border-bottom-color: #3D4D68;
+    border-color: #3D4D68;
+}
+#blueButton:hover {
+    background:white;
+    color:#3D4D68;
+}
+#blueButton:not(:hover) {
+    background:#3D4D68;
+    color:white;
+}
+
+#blueButton:active {
+    color:#3D4D68;
+    background:#3D4D68;
+    color:white;
+}
